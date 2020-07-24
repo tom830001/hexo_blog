@@ -33,12 +33,19 @@ open blog/_config.yml and apply next
 
 theme: next 
 
+
+start hexo server
 ``` bash
 $ hexo server
 ```
 
 open brower http://localhost:4000/
 
+
+``` post 
+$ hexo new [layout] <title>
+$ hexo new [layout] <title>
+```
 
 
 
